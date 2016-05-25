@@ -1,0 +1,18 @@
+# WifiLoop
+
+> WifiLoop is a self connect to your Wifi if your router loose internet.
+
+> It loops every 10 seconds checking if your Raspberry is still connect to internet. If not, it ensure ton connect it again on your Wifi.
+
+# To install :
+
+<<<<<<< HEAD
+```sh
+$ sudo python setup.py
+```
+=======
+- sudo python setup.py
+
+>>>>>>> 388582ffb83ba9bd147705e91f9c80c9dafe346a
+
+Matthieu W
